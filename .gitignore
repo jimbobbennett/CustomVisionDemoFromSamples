@@ -288,3 +288,4 @@ __pycache__/
 *.xsd.cs
 CustomVision/.DS_Store
 .mfractor/.customvision.db
+.DS_Store
